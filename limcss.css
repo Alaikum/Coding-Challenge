@@ -1,0 +1,51 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  background-size: cover;
+  background-image: url(background.jpg);
+  text-align: center;
+
+}
+
+
+
+
+.sfondocentrale {
+    background-color: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+
+
+}
+
+main {
+  color: white;
+}
+
+#zero{
+      display: inline-block;
+      border: 5px solid green;
+      background-color: green;
+      border-width: 10px;
+      width: 20%;
+
+}
+#primo{
+      display: inline-block;
+      border: 5px solid yellow;
+      border-width: 10px;
+      width: 20%;
+}
+
+#secondo{
+      display: inline-block;
+      border: 5px solid green;
+      border-width: 10px;
+      width: 60%;
+}
+
+#terzo{
+      display: inline-block;
+      border: 5px solid red;
+      border-width: 10px;
+      width: 10%;
+}
